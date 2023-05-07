@@ -1,4 +1,5 @@
 # B2 Kelompok 2
+Nama : <br>
 1. Muhammad Rizky Anugrah (2109116066)
 2. Rissa Enjellita (2109116069)
 3. Nela Dwi Anggraini (2109116078)
